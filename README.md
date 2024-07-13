@@ -1,4 +1,4 @@
-# OpenGL
+# OpenGL (C++)
 # CG-MINIPROJECT
 To execute this go to terminal and execute as follows:
 g++ main.cpp -lGL -lGLU -lglut
