@@ -10,5 +10,5 @@ the algorithms inculded are:
  1)Round Robin(RR)
  2) First come First serve(FCFS)
  3)Shortest Job First(SJF)
- 4) Exit
+ 
 
