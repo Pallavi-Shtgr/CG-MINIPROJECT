@@ -15,11 +15,11 @@ the algorithms inculded are:
  
 ![Screenshot from 2024-07-28 18-59-35](https://github.com/user-attachments/assets/abbf81bf-6191-4224-a033-ba7dfc2a963d)
 
+![Screenshot from 2024-07-28 18-59-44](https://github.com/user-attachments/assets/e902cb1a-2a3c-4a02-9607-cf90499c4bb5)
+
 ![Screenshot from 2024-07-28 19-12-27](https://github.com/user-attachments/assets/3fd0c8fa-0cc8-4de9-9287-1165536171cf)
 
 ![Screenshot from 2024-07-28 19-12-48](https://github.com/user-attachments/assets/9c21db82-4864-4b98-8d01-449431b72755)
-
-![Screenshot from 2024-07-28 18-59-44](https://github.com/user-attachments/assets/e902cb1a-2a3c-4a02-9607-cf90499c4bb5)
 
 ![Screenshot from 2024-07-28 19-00-01](https://github.com/user-attachments/assets/9a2bf303-ff7b-4ac3-a622-129e9ce4d456)
 
